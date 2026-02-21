@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Theme>Light</Theme>
+  <RunAtStartup>false</RunAtStartup>
+  <MinimizeOnStart>false</MinimizeOnStart>
+  <AllowRegedit>true</AllowRegedit>
+  <AllowServices>true</AllowServices>
+  <AllowTaskManager>true</AllowTaskManager>
+  <AuditLogEnabled>false</AuditLogEnabled>
+  <AuditLogPath />
+  <ExportDefaultFolder />
+  <CheckUpdatesAtStartup>false</CheckUpdatesAtStartup>
+  <Language>vi</Language>
+  <Windows11ToolsPath />
+  <TrialStartDate />
+  <LastValidatedMachineCode>A0B81024</LastValidatedMachineCode>
+  <HardwareChangeCount>0</HardwareChangeCount>
+  <ProxyUrl />
+  <LicenseKey>ENC:AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdpdBKiXokEmnNcaDl6ascAAAAAACAAAAAAAQZgAAAAEAACAAAAAUGnFKyVrboB1Z9HsbdwSoVkt8Nfbg5+owKDiVdWHAzQAAAAAOgAAAAAIAACAAAAA0O4bY0QOc9bbXg/ezAJBspYPSeamdziuvfjJw8e1Fl2AAAAADred5xA/Kr6xPJgph5ogvu7B6Wx8BOeU0Pu4DSXeBRFgkS9XdlTpQEXh/CE3Ei7W8v8kuI7oC6fsRRFzg7gfWUy8u728NrDkt0Fapx1MpiP13rnHe0T4NfAiM3wYQpnlAAAAAVobWCUvVCeXfHKOF1N4FAX/VoFAtyJsrV6tzbmf/ZLPMZXWJLA5OpWdLlZ31im6HutleiyJB7lZzz63IVcgb+A==</LicenseKey>
+  <LicenseServerUrl />
+  <LicenseRevocationListUrl />
+  <LastLicenseCheckDate />
+  <LicenseKeyDev />
+</AppConfig>
