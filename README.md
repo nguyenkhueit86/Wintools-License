@@ -14,7 +14,7 @@ Bộ công cụ Windows đa chức năng: thông tin hệ thống, mạng, USB, 
 | **Quản lý USB** | Liệt kê cổng/thiết bị USB, ghi chú, bật/tắt sử dụng. |
 | **Sửa lỗi Windows** | SFC, DISM, DNS, Winsock, dọn temp, Windows Update, v.v. |
 | **Sửa lỗi máy in** | Spooler, RPC, USB Monitor; mở Quản lý máy in. |
-| **Bản quyền** | Kiểm tra bản quyền Windows & Office; nhập/kích hoạt mã bản quyền (key V3). |
+| **Bản quyền** | Kiểm tra bản quyền Windows & Office; nhập/kích hoạt mã bản quyền. |
 | **Gỡ ứng dụng** | Gỡ cài đặt phần mềm. |
 | **Dò driver** | Quét thiết bị, sao lưu/khôi phục driver, cập nhật qua Windows Update, tìm driver trên web. |
 | **Công cụ khác** | Các tiện ích bổ sung. |
@@ -39,4 +39,5 @@ Loại bản quyền: Professional
 Hạn sử dụng: **28/02/2026**
 Key:
 R1VFU1R8fFByb2Zlc3Npb25hbHwyMDI2LTAyLTI4fDE=.TRhAuJJusG1jhCQyYa3KDLIu6exm1uwRzTF/S0oDJpU=
+
 
