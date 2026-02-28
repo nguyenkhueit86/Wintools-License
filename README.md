@@ -34,10 +34,9 @@ Bộ công cụ Windows đa chức năng: thông tin hệ thống, mạng, USB, 
 - Windows (khuyến nghị Windows 10/11)  
 - Một số chức năng cần quyền Administrator (UAC)
 ## Key Demo :
-Người dùng: GUEST
 Loại bản quyền: Professional
-Hạn sử dụng: **28/02/2026**
 Key:
-R1VFU1R8fFByb2Zlc3Npb25hbHwyMDI2LTAyLTI4fDE=.TRhAuJJusG1jhCQyYa3KDLIu6exm1uwRzTF/S0oDJpU=
+4BBE6E7128314EC5A6FA12F242534B62
+Số máy sử dụng : 30
 
 
